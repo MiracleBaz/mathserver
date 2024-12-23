@@ -118,6 +118,14 @@ button:hover {
 }
 ```
 # SERVER SIDE PROCESSING:
+
+![alt text](<Screenshot 2024-12-22 185718.png>)
+
 # HOMEPAGE:
+
+![alt text](<Screenshot 2024-12-23 083212.png>)
+
+![alt text](<Screenshot 2024-12-22 182828.png>)
+
 # RESULT:
 The program for performing server side processing is completed successfully.
